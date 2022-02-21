@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "'Comic Sans MS'",
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorStyle": "underline"
+}
